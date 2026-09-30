@@ -1,2 +1,3 @@
 # personal-skills
-个人skills
+个人skills/prompt
+
